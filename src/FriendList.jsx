@@ -1,4 +1,4 @@
-import friends from "./friends.json";
+import friends from "./Friends.json";
 import FriendListItem from "./components/friendlist/FriendListItem.jsx";
 
 function FriendList() {
